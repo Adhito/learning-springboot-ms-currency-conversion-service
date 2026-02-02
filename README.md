@@ -4,6 +4,25 @@
 
 A Spring Boot microservice that converts currency amounts using exchange rates from a Currency Exchange Service.
 
+## 📑 Table of Contents
+
+- [Overview](#overview)
+- [Tech Stack](#tech-stack)
+- [Architecture](#architecture)
+- [Prerequisites](#prerequisites)
+- [Quick Start](#quick-start)
+- [API Endpoints](#api-endpoints)
+- [Configuration](#configuration)
+- [Key Components](#key-components)
+- [Features](#features)
+- [Dependencies](#dependencies)
+- [Testing](#testing)
+- [Docker Support](#docker-support)
+- [Related Services](#related-services)
+- [Troubleshooting](#troubleshooting)
+- [License](#license)
+- [Author](#author)
+
 ## Overview
 
 This service consumes the Currency Exchange Service to perform currency conversions. It demonstrates microservice communication using Spring Cloud Feign Client.
